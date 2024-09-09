@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sourabh</h1>
 <h3 align="center">A Passionate Full Stack Developer...</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sourabhg202&label=Profile%20views&color=0e75b6&style=flat" alt="sourabhg202" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sourabhg202" alt="sourabhg202" /></a> </p>
-
 - 🌱 I’m currently learning **Frontend: React.js, Vue.js, or Angular for building a dynamic and responsive user interface. Backend: Express.js with Node.js for handling server-side logic and API routing. Styling: Tailwind CSS or Bootstrap for streamlined and responsive design. Database: Sequelize (for SQL) or Mongoose (for MongoDB) as ORM/ODM frameworks.**
 
 - 👯 I’m looking to collaborate on **Online Car Rental Service App**
