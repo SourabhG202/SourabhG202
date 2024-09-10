@@ -13,6 +13,24 @@
 
 ### 🌟 About Me
 
+<div align="center">
+  <img src="https://img.shields.io/badge/-Learning-%231572B6?style=flat-square&logo=React&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Collaborating-%23E34F26?style=flat-square&logo=Node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Exploring%20Frontend%20&%20Backend-%23F89820?style=flat-square&logo=JavaScript&logoColor=white" />
+</div>
+
+<p align="center">
+  <b><i>"Code is like humor. When you have to explain it, it's bad."</i></b><br />
+  I am driven by curiosity, passionate about coding, and love turning ideas into reality through technology.
+</p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-%2343853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
+
 - 🌱 Currently learning **React.js, Vue.js, Angular** for frontend, **Express.js** with **Node.js** for backend, and **Tailwind CSS** for design.
 - 👯 Open to collaborating on **Full Stack Web Projects** and **Open Source Contributions**.
 - 🤝 Looking for help with **Frontend Development** on exciting projects.
