@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, I'm Sourabh</h1>
-<h3 align="center">A Passionate Full Stack Developer</h3>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <span>Hi, I'm Sourabh</span>
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&background=000000&center=true&vCenter=true&width=500&lines=Web+Developer+%7C+MERN+Stack+Enthusiast;Passionate+About+Frontend+%7C+Backend;Building+Responsive+Web+Apps+and+API+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&background=000000&center=true&vCenter=true&width=500&lines=A+Passionate+Full+Stack+Developer;MERN+Stack+Enthusiast+%7C+Problem+Solver" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,23 +15,9 @@
 
 ### 🌟 About Me
 
-<div align="center">
-  <img src="https://img.shields.io/badge/-Learning-%231572B6?style=flat-square&logo=React&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Collaborating-%23E34F26?style=flat-square&logo=Node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Exploring%20Frontend%20&%20Backend-%23F89820?style=flat-square&logo=JavaScript&logoColor=white" />
-</div>
-
 <p align="center">
-  <b><i>"Code is like humor. When you have to explain it, it's bad."</i></b><br />
-  I am driven by curiosity, passionate about coding, and love turning ideas into reality through technology.
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&center=true&vCenter=true&width=600&lines=🌱+Learning+React.js%2C+Vue.js%2C+Angular;👯+Open+to+Collaborating+on+Web+Projects;💬+Ask+me+about+React%2C+Node.js%2C+MongoDB%2C+SQL;🤝+Looking+for+Frontend+Dev+Projects!" alt="About Me Typing SVG" />
 </p>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-%2343853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white" />
-</div>
 
 - 🌱 Currently learning **React.js, Vue.js, Angular** for frontend, **Express.js** with **Node.js** for backend, and **Tailwind CSS** for design.
 - 👯 Open to collaborating on **Full Stack Web Projects** and **Open Source Contributions**.
